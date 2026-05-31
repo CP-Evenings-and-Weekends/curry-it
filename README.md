@@ -42,3 +42,5 @@ curriedMultiply(2)(3)(4);  // -> 24
 ## Stretch
 
 Make your curry function support partial application: `curried_add(1, 2)(3)` and `curried_add(1)(2, 3)` should both work.
+
+> Stuck? Have a code error? Use the ["4 Before Me"](https://docs.google.com/document/d/1nseOs5oabYBKNHfwJZNAR7GlU0zkZxNagsw63AD7XV0/edit) debugging checklist to help you solve it!

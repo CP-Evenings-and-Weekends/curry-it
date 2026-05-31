@@ -9,7 +9,7 @@ Currying transforms a function that takes multiple arguments into a chain of fun
 # After:   add(1)(2)(3)
 ```
 
-## Premise
+## Requirements
 
 Write a function called `curry` (Python) / `curry` (JS) that takes any function and returns a curried version of it.
 
